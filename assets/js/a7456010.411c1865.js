@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkattenuation_tool_document=globalThis.webpackChunkattenuation_tool_document||[]).push([[235],{8552:t=>{t.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
