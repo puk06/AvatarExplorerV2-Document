@@ -1,5 +1,5 @@
 import {Redirect} from '@docusaurus/router';
 
 export default function Home() {
-    return <Redirect to="/AvatarExplorerV2-Document/tutorial/このソフトについて/VRC Avatar Explorer V2" />;
+    return <Redirect to="/AvatarExplorerV2-Document/tutorial/このソフトについて/AvatarExplorerV2" />;
 }
